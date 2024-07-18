@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jasvitha2002
+- 👋 Hi, I’m @jasvitha
 - 👀 I’m interested in languages along with project based learning.
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
